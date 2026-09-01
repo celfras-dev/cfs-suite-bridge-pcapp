@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "generated": "2026-09-01T01:29:05Z",
+  "manifest_sig": null,
+  "products": {
+    "CFS-SUITE-BRIDGE-PCAPP": {
+      "latest": "1.0.0",
+      "url": "https://github.com/celfras-dev/cfs-suite-bridge-pcapp",
+      "notes": ""
+    }
+  }
+}
