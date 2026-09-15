@@ -1,19 +1,19 @@
 {
   "schema": 1,
-  "generated": "2026-09-15T03:45:05Z",
+  "generated": "2026-09-15T04:44:21Z",
   "manifest_sig": null,
   "products": {
     "CFS-SUITE-BRIDGE-PCAPP": {
-      "latest": "3.1.0",
+      "latest": "3.2.0",
       "url": "https://github.com/celfras-dev/cfs-suite-bridge-pcapp",
       "notes": "",
       "releases": [
         {
-          "version": "3.1.0",
-          "file": "CFS-SUITE-BRIDGE_Setup_V3.1.0.exe",
-          "url": "https://github.com/celfras-dev/cfs-suite-bridge-pcapp/releases/download/v3.1.0/CFS-SUITE-BRIDGE_Setup_V3.1.0.exe",
-          "sha256": "8ffc99b929eec1de16dfd5ca107e90126feba100550259796301ba392815f503",
-          "size": 56995511
+          "version": "3.2.0",
+          "file": "CFS-SUITE-BRIDGE_Setup_V3.2.0.exe",
+          "url": "https://github.com/celfras-dev/cfs-suite-bridge-pcapp/releases/download/v3.2.0/CFS-SUITE-BRIDGE_Setup_V3.2.0.exe",
+          "sha256": "0e0c1c3b4c2948af25831d3ddf781ab36f0601b699b4c20c3478e15c0c819614",
+          "size": 57004576
         }
       ]
     }
